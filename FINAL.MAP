@@ -1,0 +1,17 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 000B1H 000B2H DATA               
+ 000C0H 00196H 000D7H PROCEDURES         
+ 001A0H 001FAH 0005BH OUTPUT             
+ 00200H 00336H 00137H CODE               
+
+  Address         Publics by Name
+
+
+  Address         Publics by Value
+
+
+Program entry point at 0020:0000
+Warning: No stack
+
